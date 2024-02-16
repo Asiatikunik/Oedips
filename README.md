@@ -2,14 +2,14 @@
 
 ## Pour commencer
 ### Pré-requis
-Spring Boot
-Maven 
+Spring Boot /
+Maven /
 Java 17
 
 ### Construit avec
-Spring Boot 
-Maven
-IDEA Intellij
+Spring Boot /
+Maven /
+IDEA Intellij /
 Postman
 
 # Auteurs
